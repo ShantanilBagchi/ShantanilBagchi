@@ -36,17 +36,10 @@ Checklists are my absolute favorite. ✅ Breaking down large chunk of work to ma
 <br><br>
 <!--⭐ From [Shantanil Bagchi](https://github.com/ShantanilBagchi)-->
 
-![<Stats>](https://github-readme-stats.vercel.app/api?username=<ShantanilBagchi&show_icons=true&theme=radical)
-                                                                                           
-<!--**Languages and Tools:** &nbsp;
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>-->
+![<Stats>](https://github-readme-stats-neon-eta.vercel.app
+/api?username=<shantanilbagchi&show_icons=true&theme=radical)
 
-
-<p align="center">
+<!--<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohidurbappy&theme=radical&hide_langs_below=1&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ohidurbappy&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
-</p>
+</p>-->
