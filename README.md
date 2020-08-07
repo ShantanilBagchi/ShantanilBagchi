@@ -3,7 +3,7 @@
 
 <!--### <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="24px">-->
 
-I am **Shantanil Bagchi** pursuing Master's Degree (Thesis) in Electrical and Computer Engineering from <a href="https://www.mcgill.ca//"> <b>McGill University</b>, Montreal</a>.
+I am **Shantanil Bagchi** pursuing my Master's Degree (Thesis) in Electrical and Computer Engineering from <a href="https://www.mcgill.ca//"> <b>McGill University</b>, Montreal</a>.
 
 ## About Me
 
