@@ -1,5 +1,5 @@
 # Shantanilapk
-![](https://github.com/abhishekapk/abhishek.apk/blob/master/cover_intro.gif)
+<!--![](https://github.com/abhishekapk/abhishek.apk/blob/master/cover_intro.gif)-->
 
 ### <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="24px">
 
