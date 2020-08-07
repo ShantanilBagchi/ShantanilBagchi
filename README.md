@@ -3,7 +3,7 @@
 
 ### <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="24px">
 
-I am **Abhishek Kumar Gupta** pursuing BTECH Degree in Computer Science and Engineering from <a href="https://http://www.ggu.ac.in/"> <b>Guru Ghasidas Vishwavidyalaya</b>, Bilaspur</a>. with unique and innovative perception..
+I am **Shantanil Bagchi** pursuing Master's Degree (Thesis) in Electrical and Computer Engineering from <a href="https://www.mcgill.ca//"> <b>McGill University</b>, Montreal</a>. with unique and innovative perception..
 
 ## About Me
 
