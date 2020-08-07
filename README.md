@@ -9,11 +9,11 @@ I am **Shantanil Bagchi** pursuing Master's Degree (Thesis) in Electrical and Co
 
 I am an Ex-Instrumentation and Control engineer with 4 yrs. experience in the Oil and Gas industry for a Fortune 500 company. My current focus is designing algorithms for estimating and tracking targets to get improved results over conventional methods. 
 
-- 💡 I'm the type of person who will ask **“What can I do to help and improve?”** when presented with a problem and will pitch in whenever needed to find out of box solutions to existing processes. I am energized by collaborating with other people to find solutions and implementing them to see production improvement. I am motivated by continuous learning.
+- 💡 I'm the type of person who will ask **“What can I do to help and improve?”** when presented with a problem and will pitch in whenever needed to find out of box solutions to existing processes. 
 
-- 🌱 I'm currently learning Data Science and Machine Learning skills in order to understand how to improve productivity for business processes using my existing background.
+- 💡 I'm energized by collaborating with other people to find solutions and implementing them to see production improvement.
 
-- 🔭 I’m looking to collaborate on **OpenSourced** projects on **ML/DL** as well as social impact projects too.
+- 💡 I'm currently learning Data Science and Machine Learning skills in order to understand how to improve productivity for business processes using my existing background.
 
 ## Let's Connect -
 
@@ -24,6 +24,6 @@ I am an Ex-Instrumentation and Control engineer with 4 yrs. experience in the Oi
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![visitors](https://komarev.com/ghpvc/?username=Shantanilapk)
+![visitors](https://komarev.com/ghpvc/?username=Shantanil)
 <br><br>
 ⭐ From [Shantanil Bagchi](https://github.com/ShantanilBagchi)
