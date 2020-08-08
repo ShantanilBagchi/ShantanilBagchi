@@ -36,9 +36,9 @@ Checklists are my absolute favorite. ✅ Breaking down large chunk of work to ma
 <br><br>
 <!--⭐ From [Shantanil Bagchi](https://github.com/ShantanilBagchi)-->
 
-![<Stats>](https://github-readme-stats.shantanilbagchi.vercel.app/api?username=<ShantanilBagchi&show_icons=true&theme=radical)
+<!--![<Stats>](https://github-readme-stats.shantanilbagchi.vercel.app/api?username=<shantanilbagchi&show_icons=true&theme=radical)-->
 
-<!--<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohidurbappy&theme=radical&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ohidurbappy&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
+<--<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanilbagchi&theme=radical&hide_langs_below=1&line_height=21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shantanilbagchi&show_icons=true&theme=radical&line_height=21" alt="Shantanil's github stats"/>
 </p>-->
