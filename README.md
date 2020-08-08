@@ -8,7 +8,7 @@
 
 I am **Shantanil(Neil)** pursuing my Master's Degree (Thesis) in Electrical and Computer Engineering from <a href="https://www.mcgill.ca//"> <b>McGill University</b>, Montreal</a>.
 
-I am an Ex-Instrumentation and Control engineer with 4 yrs. experience in the Oil and Gas industry for a Fortune 500 company <a href="https://www.gailonline.com/home.html#maincontent"> <b>Gail India LTD</b></a>. 
+I am an Ex-Instrumentation and Control engineer with 4 yrs. experience in the Oil and Gas industry for a Fortune 500 company <a href="https://www.gailonline.com/home.html#maincontent"> <b>GAIL India LTD</b></a>. 
 
 *Current focus* - Developing non-probabilistic algorithm for improving estimation for non linear processes. 
 
