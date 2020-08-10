@@ -14,22 +14,21 @@ I'm the type of person who will ask **“What can I do to help and improve?”**
 
 Checklists are my absolute favorite. ✅ Breaking down large chunk of work to managable bits.
 
+You can connect with me here,
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shantanilbagchi/)
 
 ## GitHub Stats
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanilbagchi&theme=radical&hide_langs_below=1&line_height=21" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shantanilbagchi&show_icons=true&theme=radical&line_height=21" alt="Shantanil's github stats"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanilbagchi&theme=radical&hide_langs_below=1&line_height=21" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shantanilbagchi&show_icons=true&theme=radical&line_height=21" alt="Shantanil's github stats"/>
 </p>
 
-You can connect with me here,
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shantanilbagchi/) 
+
+ 
 <!--[![Email Badge](https://img.shields.io/badge/-shantanil.bagchi@mail.mcgill.ca-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shantanil.bagchi@mail.mcgill.ca)](mailto:shantanil.bagchi@mail.mcgill.ca)-->
 
-
-
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
 ![visitors](https://komarev.com/ghpvc/?username=Shantanil)
 <br><br>
