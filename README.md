@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 ![visitors](https://komarev.com/ghpvc/?username=Shantanil)
 ![](https://github.com/ShantanilBagchi/ShantanilBagchi/blob/master/Dark-Blue-and-Turquoise-Gaming-Youtube-Channel-Art-new-copy.jpg)
 I am **Shantanil(Neil)** pursuing my Master's Degree (Thesis) in Electrical and Computer Engineering from <a href="https://www.mcgill.ca//"> <b>McGill University</b>, Montreal</a>.
 
@@ -15,6 +15,7 @@ I'm the type of person who will ask **“What can I do to help and improve?”**
 Checklists are my absolute favorite. ✅ Breaking down large chunk of work to managable bits.
 
 You can connect with me here,
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shantanilbagchi/)
 
 ## GitHub Stats
@@ -30,7 +31,7 @@ You can connect with me here,
 <!--[![Email Badge](https://img.shields.io/badge/-shantanil.bagchi@mail.mcgill.ca-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shantanil.bagchi@mail.mcgill.ca)](mailto:shantanil.bagchi@mail.mcgill.ca)-->
 
 
-![visitors](https://komarev.com/ghpvc/?username=Shantanil)
+
 <br><br>
 
 <!--![<Stats>](https://github-readme-stats.shantanilbagchi.vercel.app/api?username=<shantanilbagchi&show_icons=true&theme=radical)-->
