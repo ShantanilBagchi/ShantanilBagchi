@@ -23,17 +23,16 @@ Checklists are my absolute favorite. ✅ Breaking down large chunk of work to ma
 
 You can connect with me here,
 
-<p align="center"> 
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shantanilbagchi/) 
 <!--[![Email Badge](https://img.shields.io/badge/-shantanil.bagchi@mail.mcgill.ca-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shantanil.bagchi@mail.mcgill.ca)](mailto:shantanil.bagchi@mail.mcgill.ca)-->
-</p>
+
 
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
 ![visitors](https://komarev.com/ghpvc/?username=Shantanil)
 <br><br>
-<!--⭐ From [Shantanil Bagchi](https://github.com/ShantanilBagchi)-->
 
 <!--![<Stats>](https://github-readme-stats.shantanilbagchi.vercel.app/api?username=<shantanilbagchi&show_icons=true&theme=radical)-->
 
