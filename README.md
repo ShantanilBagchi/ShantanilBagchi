@@ -14,7 +14,7 @@ I'm the type of person who will ask **“What can I do to help and improve?”**
 
 Checklists are my absolute favorite. ✅ Breaking down large chunk of work to managable bits.
 
-You can connect with me here,
+##
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shantanilbagchi/)
 
