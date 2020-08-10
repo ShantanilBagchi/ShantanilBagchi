@@ -1,19 +1,12 @@
-# Shantanil Bagchi
+# Hi there 👋
 ![](https://github.com/ShantanilBagchi/ShantanilBagchi/blob/master/Dark-Blue-and-Turquoise-Gaming-Youtube-Channel-Art-new-copy.jpg)
-
-<!--### <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="24px">-->
-
-
-## About Me
-
 I am **Shantanil(Neil)** pursuing my Master's Degree (Thesis) in Electrical and Computer Engineering from <a href="https://www.mcgill.ca//"> <b>McGill University</b>, Montreal</a>.
 
 I am an Ex-Instrumentation and Control engineer with 4 yrs. experience in the Oil and Gas industry for a Fortune 500 company <a href="https://www.gailonline.com/home.html#maincontent"> <b>GAIL India LTD</b></a>. 
 
-*Current focus* - Developing non-probabilistic algorithm for improving estimation for non linear processes. 
+Current focus - Developing non-probabilistic algorithm for improving estimation for non linear processes. 
 
-*Currently Learning* - **Data Science and Machine Learning**.
-
+Currently Learning - **Data Science and Machine Learning**.
 
 
 ## How I Work
@@ -21,17 +14,19 @@ I'm the type of person who will ask **“What can I do to help and improve?”**
 
 Checklists are my absolute favorite. ✅ Breaking down large chunk of work to managable bits.
 
+
 ## GitHub Stats
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanilbagchi&theme=radical&hide_langs_below=1&line_height=21" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shantanilbagchi&show_icons=true&theme=radical&line_height=21" alt="Shantanil's github stats"/>
 </p>
 
-## Let's Connect -
+You can connect with me here,
 
-[![Linkedin Badge](https://img.shields.io/badge/-Shantanil-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shantanilbagchi/)](https://www.linkedin.com/in/shantanilbagchi/) 
-[![Email Badge](https://img.shields.io/badge/-shantanil.bagchi@mail.mcgill.ca-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shantanil.bagchi@mail.mcgill.ca)](mailto:shantanil.bagchi@mail.mcgill.ca)
-
+<p align="center"> 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shantanilbagchi/) 
+<!--[![Email Badge](https://img.shields.io/badge/-shantanil.bagchi@mail.mcgill.ca-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shantanil.bagchi@mail.mcgill.ca)](mailto:shantanil.bagchi@mail.mcgill.ca)-->
+</p>
 
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
