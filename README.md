@@ -1,5 +1,8 @@
 # Hi there 👋 ![visitors](https://komarev.com/ghpvc/?username=Shantanil)
-![](https://github.com/ShantanilBagchi/ShantanilBagchi/blob/master/Dark-Blue-and-Turquoise-Gaming-Youtube-Channel-Art-new-copy.jpg)
+<!--![](https://github.com/ShantanilBagchi/ShantanilBagchi/blob/master/Dark-Blue-and-Turquoise-Gaming-Youtube-Channel-Art-new-copy.jpg)-->
+
+![<img align='centre>](https://github.com/ShantanilBagchi/ShantanilBagchi/blob/master/GIF.gif)
+
 I am **Shantanil(Neil)** pursuing my Master's Degree (Thesis) in Electrical and Computer Engineering from <a href="https://www.mcgill.ca//"> <b>McGill University</b>, Montreal</a>.
 
 I am an Ex-Instrumentation and Control engineer with 4 yrs. experience in the Oil and Gas industry for a Fortune 500 company <a href="https://www.gailonline.com/home.html#maincontent"> <b>GAIL India LTD</b></a>. 
