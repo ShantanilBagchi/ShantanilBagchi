@@ -1,5 +1,7 @@
 # ![visitors](https://komarev.com/ghpvc/?username=Shantanil)
 <!--![](https://github.com/ShantanilBagchi/ShantanilBagchi/blob/master/Dark-Blue-and-Turquoise-Gaming-Youtube-Channel-Art-new-copy.jpg)-->
+
+
 <p align="center">
 <img src="https://github.com/ShantanilBagchi/ShantanilBagchi/blob/master/GIF.gif">
   </p>
@@ -11,9 +13,10 @@ Current focus - Developing non-probabilistic algorithm for improving estimation 
 Currently Learning - **Data Science and Machine Learning**.-->
 
 
-<!--## How I Work
+## About Me
 I'm the type of person who will ask **“What can I do to help and improve?”** when presented with a problem and will pitch in whenever needed to find out of box solutions to existing processes. I'm energized by collaborating with other people to find solutions and implementing them to see production improvement. 
-Checklists are my absolute favorite. ✅ Breaking down large chunk of work to managable bits.-->
+
+Checklists are my absolute favorite. ✅ Breaking down large chunk of work to managable bits.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shantanilbagchi/)
 
