@@ -18,7 +18,7 @@ I'm the type of person who will ask **“What can I do to help and improve?”**
 
 Checklists are my absolute favorite. ✅ Breaking down large chunk of work to managable bits.
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shantanilbagchi/)
+<!--[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shantanilbagchi/)-->
 
 <p align="center">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=shantanilbagchi&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="Shantanil's github stats"/>
