@@ -32,8 +32,8 @@ I am currently aiming to be a Data Analyst/Scientist with Machine Learning knowl
 </a>  
   
 <a href="https://github.com/ShantanilBagchi/ShantanilBagchi">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanilbagchi&title_color=fffffff&icon_color=000000&text_color=000000" />
-alt="Shantanil's github stats"
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanilbagchi&title_color=fffffff&icon_color=000000&text_color=000000" alt="Shantanil's github stats" />
+
 </a>
 
 
