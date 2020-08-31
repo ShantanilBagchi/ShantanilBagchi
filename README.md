@@ -14,22 +14,36 @@
 </h1>
   
 
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150" align = "right">
 
 
+## <h1 align="left"> About Me </h1> 
 
-## <h1 align="center"> About Me </h1> 
-I am a Data Scientist in Ericsson. I have completed my post graduation from ISB in CBA course. I have more than 5 years of experience in Data science, machine learning and statistics. I have worked in various fields like order to cash collection, financial services and Telecom. Recently, I have just started with tech-blogging!
-Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" align = "right">
 
-
-
+I am currently aiming to be a Data Analyst/Scientist with Machine Learning knowledge. 
 
 
-<p align="center">
+- I’m currently learning deep learning and taking part in competitive coding.
+
+
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/ShantanilBagchi/ShantanilBagchi">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=shantanilbagchi&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="Shantanil's github stats"/>
+</a>  
+  
+<a href="https://github.com/ShantanilBagchi/ShantanilBagchi">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanilbagchi&title_color=fffffff&icon_color=000000&text_color=000000" />
-</p>
+alt="Shantanil's github stats"
+</a>
+
+
+
+
+
+
+
+
+
 
 
 <!--
@@ -37,18 +51,7 @@ Currently working, learning and growing my skillset in deep learning, competitiv
 <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="150" align = "right">  </h1> -->
 
 
-
-
-
-
-
-
-
-
-
-
 <!--![](https://github.com/ShantanilBagchi/ShantanilBagchi/blob/master/Dark-Blue-and-Turquoise-Gaming-Youtube-Channel-Art-new-copy.jpg)-->
-
 
 
 <!--I am **Shantanil(Neil)** pursuing my Master's Degree (Thesis) in Electrical and Computer Engineering from <a href="https://www.mcgill.ca//"> <b>McGill University</b>, Montreal</a>.-->
