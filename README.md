@@ -1,4 +1,9 @@
-
+![Profile views](https://komarev.com/ghpvc/?username=Shantanil)
+[![Years Badge](https://badges.pufler.dev/years/ShantanilBagchi)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/ShantanilBagchi)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/ShantanilBagchi/ShantanilBagchi)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/ShantanilBagchi/ShantanilBagchi)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/ShantanilBagchi)](https://badges.pufler.dev)
 
 
 
