@@ -21,22 +21,41 @@
 
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" align = "right">
 
-Hey! I'm Shantanil! 👋🏻 I'm an aspiring data scientist dedicated to finding insights in data as well as educating others in data analytics! Let's connect!
+/*Hey! I'm Shantanil! 👋🏻 I'm an aspiring data scientist dedicated to finding insights in data as well as educating others in data analytics! Let's connect!
 
-📊 I was first introduced to the world of Data Analytics while working as a control engineer in the energy sector for a Fortune 500 company. Although, at that time, the term Data science wasn’t this famous. Nonetheless, I understood that any industry generated a lot of data and not tapping into them is a waste of valuable insights. I used automation and generated insights using Excel at that time.
+/*📊 I was first introduced to the world of Data Analytics while working as a control engineer in the energy sector for a Fortune 500 company. Although, at that time, the term Data science wasn’t this famous. Nonetheless, I understood that any industry generated a lot of data and not tapping into them is a waste of valuable insights. I used automation and generated insights using Excel at that time.
 
-🔬 Fast forward to now, I am currently pursuing my Master’s at McGill University working on developing an algorithm for non-linear system estimation. I took up a graduate-level Machine Learning course to understand better how to use it for my research. This is when I got formally introduced to the world of Data Science. 
+/*🔬 Fast forward to now, I am currently pursuing my Master’s at McGill University working on developing an algorithm for non-linear system estimation. I took up a graduate-level Machine Learning course to understand better how to use it for my research. This is when I got formally introduced to the world of Data Science. 
 
-💻 Always eager to learn new things and taking up new challenges, currently I'm taking up various online courses and participating in hackathons to gain experience in the field of data science and data analytics. I am also exploring multiple domains to further enhance my skills and choose where I want to end up in the future.
+/*💻 Always eager to learn new things and taking up new challenges, currently I'm taking up various online courses and participating in hackathons to gain experience in the field of data science and data analytics. I am also exploring multiple domains to further enhance my skills and choose where I want to end up in the future.
 
-🙂 A little about my personality: I am the type of person who will ask “What can I do to help and improve?” when presented with a problem and will pitch in whenever needed to find out of box solutions to existing processes. I am energized by collaborating with other people to find solutions and implementing them to see improvement. I strongly believe in giving back to society and uplift everyone around me.
+/*🙂 A little about my personality: I am the type of person who will ask “What can I do to help and improve?” when presented with a problem and will pitch in whenever needed to find out of box solutions to existing processes. I am energized by collaborating with other people to find solutions and implementing them to see improvement. I strongly believe in giving back to society and uplift everyone around me.
 
-😎 Keeping data science aside, I love to sketch in my free time. During this summer, I learned Adobe Illustrator to learn a new skill and add to my arsenal. I also love working with Da Vinci Resolve to edit videos and aspire to create content in the future. (only used it to create videos for some friends.) 
+/*😎 Keeping data science aside, I love to sketch in my free time. During this summer, I learned Adobe Illustrator to learn a new skill and add to my arsenal. I also love working with Da Vinci Resolve to edit videos and aspire to create content in the future. (only used it to create videos for some friends.) 
 
-💬 Message me to talk about: how to get started in data science, what's it like pursuing master’s at McGill or in Canada, what resources I am using to learn data science, and how to stay motivated when you are self-learning even if you aren’t from a computer science background.
+/*💬 Message me to talk about: how to get started in data science, what's it like pursuing master’s at McGill or in Canada, what resources I am using to learn data science, and how to stay motivated when you are self-learning even if you aren’t from a computer science background.
 
-I aspire to learn and add value at the same time. So come let's grow together. Thank you for viewing my profile. Email me at shantanil.bagchi@mail.mcgill.ca
+/*I aspire to learn and add value at the same time. So come let's grow together. Thank you for viewing my profile. Email me at shantanil.bagchi@mail.mcgill.ca
 
+
+Hey! I'm Shantanil or as friends call me Neil! 👋🏻
+I'm a storyteller at heart and seasoned research & analytics professional who loves solving problems and telling stories with data. I have aided organizations adopt data-driven decision-making solutions to improve businesses. One of my major quests has been to leverage data to find actionable insights and thus connect dollars to the business outcomes. I call myself a 𝗗𝗮𝘁𝗮 𝗘𝘃𝗮𝗻𝗴𝗲𝗹𝗶𝘀𝘁 as I believe in empowering every individual with Data-Literacy, thus I have played the role of a mentor as well.
+
+🙂 A little about my personality: I am the type of person who will ask “𝗪𝗵𝗮𝘁 𝗰𝗮𝗻 𝗜 𝗱𝗼 𝘁𝗼 𝗵𝗲𝗹𝗽 𝗮𝗻𝗱 𝗶𝗺𝗽𝗿𝗼𝘃𝗲?” when presented with a problem and will pitch in whenever needed to find out-of-the-box solutions to existing processes. I am energized by collaborating with other people to find solutions and implementing them to see improvement. I strongly believe in giving back to society and uplift everyone around me.
+
+😎 Keeping data science aside, I love to sketch in my free time.
+
+CORE COMPETENCIES
+Research | Quantitative Analysis | Data Visualization | Problem Solving | Product Management | Public Speaking | Strategy Formulation | Mentoring
+
+✅ Programming: Python (Numpy, Pandas, NLTK, Spacy, Keras, SkLearn, Matplotlib), SQL, Tableau, Advanced Excel (Pivot Tables, LookUp, VBA etc).
+
+✅ Machine Learning: Statistics, Regression Modeling, Random Forest, XGBoost, kNN Classifier, K-means Clustering, Feature Extraction (PCA), Convolutional Neural Network
+
+✅ Business Domain Expertise: , Sales and Marketing Analytics, Customer Segmentation, Customer Lifetime Value and Retention Analysis, Product Analytics, People Analytics
+
+Reach me at:
+✉️ shantanil.bagchi@mail.mcgill.ca
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/ShantanilBagchi/ShantanilBagchi">
