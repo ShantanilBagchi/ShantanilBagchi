@@ -55,8 +55,13 @@ Sales and Marketing Analytics, Customer Segmentation, Customer Lifetime Value an
   
 ## &#x1f4c8; Stats
 <a href="https://github.com/ShantanilBagchi/ShantanilBagchi">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=shantanilbagchi&show_icons=true&count_private=true&title_color=971901&text_color=971901&icon_color=971901&no-bg=true&hide_border=true)alt="Shantanil's github stats"/>
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=shantanilbagchi&show_icons=true&count_private=true&custom_title=नमस्ते Programmers!&title_color=971901&text_color=971901&icon_color=971901&no-bg=true&hide_border=true) alt="Shantanil's github stats"/>
 </a>  
-<a href="https://github.com/ShantanilBagchi/ShantanilBagchi">
-<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanilbagchi&layout=compact&title_color=971901&icon_color=971901&text_color=971901" alt="Shantanil's github stats" />
+<img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=shantanilbagchi&theme=blood&custom_title=streak-stats&hide_border=true&layout=compact" />
+
+<!-- <a href="https://github.com/ShantanilBagchi/ShantanilBagchi">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanilbagchi&layout=compact&title_color=971901&icon_color=971901&text_color=971901" alt="Shantanil's github stats" />
 </a>
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+<img src="https://github-profile-trophy.vercel.app/?username=shantanilbagchi&theme=default&layout=compact&title_color=971901"/>
+</a> -->
