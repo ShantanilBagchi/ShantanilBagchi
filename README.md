@@ -57,17 +57,11 @@ Sales and Marketing Analytics, Customer Segmentation, Customer Lifetime Value an
 <a href="https://github.com/ShantanilBagchi/ShantanilBagchi">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=shantanilbagchi&show_icons=true&count_private=true&title_color=971901&text_color=971901&icon_color=971901&no-bg=true&hide_border=true)alt="Shantanil's github stats"/>
 </a>  
-<!--  &show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" -->
+
 
 <a href="https://github.com/ShantanilBagchi/ShantanilBagchi">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanilbagchi&layout=compact&title_color=971901&icon_color=971901&text_color=971901" alt="Shantanil's github stats" />
-
 </a>
-<br/>
-
----
-<!--
-## View My Repositories 👇-->
 
 
 
