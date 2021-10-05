@@ -1,9 +1,10 @@
-![Profile views](https://komarev.com/ghpvc/?username=Shantanil)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/ShantanilBagchi)](https://badges.pufler.dev)
-<!--[![Years Badge](https://badges.pufler.dev/years/ShantanilBagchi)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/ShantanilBagchi)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/ShantanilBagchi/ShantanilBagchi)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/ShantanilBagchi/ShantanilBagchi)](https://badges.pufler.dev)-->
+![Profile views](https://komarev.com/ghpvc/?username=Shantanil&style=flat-square&logo=appveyor&color=yellow)
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges/?style=flat-square&color=yellow)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/ShantanilBagchi/?style=flat-square&color=yellow)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/ShantanilBagchi/?style=flat-square&color=yellow)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/ShantanilBagchi/?style=flat-square&color=yellow)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/ShantanilBagchi/ShantanilBagchi/?style=flat-square&color=yellow)](https://badges.pufler.dev)
+<!--[![Created Badge](https://badges.pufler.dev/created/ShantanilBagchi/ShantanilBagchi)](https://badges.pufler.dev) -->
 
 
 
