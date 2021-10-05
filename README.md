@@ -63,6 +63,7 @@ Sales and Marketing Analytics, Customer Segmentation, Customer Lifetime Value an
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanilbagchi&layout=compact&title_color=971901&icon_color=971901&text_color=971901" alt="Shantanil's github stats" />
 
 </a>
+<br/>
 
 ---
 ## View My Repositories 👇
