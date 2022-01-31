@@ -1,6 +1,6 @@
-<h1 align="center">
+<!-- <h1 align="center">
 <img src="https://github.com/ShantanilBagchi/ShantanilBagchi/blob/master/Linkedin%20Banner.png">
-</h1>
+</h1> -->
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shantanil&style=flat-square&logo=appveyor&color=971901)
